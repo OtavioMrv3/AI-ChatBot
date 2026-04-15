@@ -1,2 +1,2 @@
 # AI-ChatBot
-HTML, CSS, JS
+HTML, JS, CSS
