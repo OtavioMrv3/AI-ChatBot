@@ -1,2 +1,2 @@
 # AI-ChatBot
-test
+HTML, CSS, JS
